@@ -25,25 +25,16 @@ Here are the technologies I work with:
 - **Frontend**: React JS, Tailwind CSS
 - **Backend**: Node JS, Express JS
 - **Databases**: MongoDB, MySQL
-- **Programming Languages**: JavaScript, Python
+- **Programming Languages**: JavaScript, Java
 
 ## 🔧 Tools & Technologies I Use
 
 - **Version Control**: Git, GitHub
-- **Code Editors**: VS Code, Sublime Text
-- **Deployment**: Heroku, Vercel, Netlify
-- **Others**: Docker, Postman, Nginx
+- **Code Editors**: VS Code
+- **Deployment**: AWS, Vercel, Netlify
+- **Others**: Postman, Nginx
 
-## 🌱 I’m currently learning
 
-- Exploring cloud services like AWS and Firebase.
-- Improving my skills in **DevOps** and **CI/CD** pipelines.
-
-## 📈 GitHub Stats
-
-![Varun Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
-## 💬 Let's Build Something Together!
 
 I'm always open to working on exciting projects and collaborating with like-minded people. Feel free to drop me a message, and let's make something amazing together! 🚀
 
